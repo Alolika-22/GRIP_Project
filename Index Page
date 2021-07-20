@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML table</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<th>S.N.</th>
+			<th>Name</th>
+			<th>Address</th>
+			<th>Contact</th>
+			<th>Email</th>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Rima Gupta</td>
+			<td>Salt Lake,Kolkata</td>
+			<td>456794321</td>
+			<td>rimagupta@gmail.com</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Raj Ray</td>
+			<td>Park Street,Kolkata</td>
+			<td>456984321</td>
+			<td>rayraj@gmail.com</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Kriti Sen</td>
+			<td>Siliguri</td>
+			<td>456984321</td>
+			<td>kritisen@gmail.com</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Reem Ray</td>
+			<td>Park Street,Kolkata</td>
+			<td>456984321</td>
+			<td>reem8976@gmail.com</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>Riya Das</td>
+			<td>Durgapur</td>
+			<td>456984321</td>
+			<td>das56riya@gmail.com</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>Ankita Sen</td>
+			<td>Asansol</td>
+			<td>456984321</td>
+			<td>ankitasen@gmail.com</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>Sam Dey</td>
+			<td>Park Street,Kolkata</td>
+			<td>456984321</td>
+			<td>sam56@gmail.com</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>Megha Das</td>
+			<td>S stree,Siliguri</td>
+			<td>456984321</td>
+			<td>Megha@gmail.com</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>Rima Sen</td>
+			<td>54 street,Siliguri</td>
+			<td>456984321</td>
+			<td>rimasen@gmail.com</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>Avantika Dey</td>
+			<td>R2 street,Kolkata</td>
+			<td>452345321</td>
+			<td>dey3456@gmail.com</td>
+		</tr>
+	</table>
+	<style>
+		body{
+			margin:0;
+			padding:0;
+			font-family: Bold;
+			background: url(home.jpg) no-repeat;
+			background-size: cover;
+		}
+		table,th,td{
+			width:800px;
+			margin:auto;
+			font-size: 30px;
+			padding: 20px;
+			text-align: center;
+			color:#fff;
+			border:2px solid #fff;
+			border-collapse:collapse;
+		}
+	</style>
+
+</body>
+</html>
