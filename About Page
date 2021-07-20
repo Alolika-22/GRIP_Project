@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us</title>
+</head>
+<body id="bg">
+	<h1>Who we are</h1>
+	<p> Savings Bank is an Indian banking and financial services company, headquartered in Mumbai, Maharashtra.Savings Bank is India's one of the largest private sector bank by assets and by market capitalisation. It is the third largest company by market capitalisation on the Indian stock exchanges.</p>
+	<h2>Our Businesses</h2>
+	<p>Retail Banking: <br>Savings Bank offers a diverse range of financial products and banking services to customers through a growing branch and ATM network and digital channels such as Netbanking, Phonebanking and MobileBanking.<br>Wholesale Banking:<br>Savings Bank offers a wide gamut of commercial and transactional banking services to businesses and organizations of all sizes. Our services include working capital finance, trade services, transactional services and cash management.<br>Treasury:<br>Under our treasury services, we help businesses generate better returns on their funds and manage financial risk. We focus on three main product areas: foreign exchange and derivatives, local currency money market and debt securities, and equities
+	</p>
+	<h3>*Thank you for visiting!Hope to see you again*</h3>
+	<style>
+		p{
+			text-decoration: none;
+			font-family: Cursive ;
+			font-size: 25px;
+		}
+		#bg{
+			background:url("about.jfif");
+			height: 100vh;
+			-webkit-background-size:cover;
+			background-size:cover;
+			background-position: center center;
+			position: relative;
+        }
+        h1{
+        	text-decoration: underline;
+        	color:#ff4d4d;
+        }
+        h2{
+        	text-decoration:underline;
+        	color: #ff4d4d;
+        }
+        h3{
+        	color: #ff4d4d;
+        	text-align: center;
+        	font-size: 20px;
+        }
+	</style>
+
+</body>
+</html>
