@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>service</title>
+</head>
+<body id="bg">
+	<h2>Individual Banking:></h2>
+	<ol>
+		<li>Checking accounts</li>
+		<li>Savings accounts</li>
+		<li>Debit & credit cards</li>
+		<li>Insurance</li>
+	</ol>
+	<h2>Digital Banking:></h2>
+		<ol>
+		<li>Online, mobile, and tablet banking</li>
+				<li>Text alerts</li>
+					<li>eStatements</li>
+						<li>Online bill pay.</li>
+					</ol>
+	<h2>Loans:></h2>
+		<ol>
+		<li>Personal loans</li>
+		<li>Auto and boat loans</li>
+		<li>Home loans</li>
+		<li>Business loans</li>
+	</ol>
+	<h2>Business Banking:></h2>
+	<ol>
+		<li>Business loans</li>
+        <li>Checking accounts</li>
+        <li>Savings accounts</li>
+        <li>Debit and credit cards</li>
+        <li>Merchant services (credit card processing, reconciliation and reporting, check collection)</li>
+
+	<style>
+		#bg{
+			background:url("services.jpg");
+			height: 100vh;
+			-webkit-background-size:cover;
+			background-size:cover;
+			background-position: center center;
+			position: relative;
+		}
+		h2{
+			font-family: sans-seri;
+			font-size: 30px;
+			text-decoration: underline;
+			color: #fff;
+		}
+		p{
+			font-size: 30px;
+			font-family: cursive;
+			color: #fff;
+		
+		}
+		ol{
+			font-size: 30px;
+			font-family: cursive;
+			color: #fff;
+
+		}
+
+	</style>
+
+</body>
+</html>
